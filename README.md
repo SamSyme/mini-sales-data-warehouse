@@ -1,1 +1,12 @@
-# mini-sales-data-warehouse
+# Mini Sales Data Warehouse
+
+A data warehouse project built with Python, SQLite, and SQL.
+
+## What's inside
+- Star schema design (4 dimension tables + 1 fact table)
+- ETL pipeline from raw CSV to structured warehouse
+- SQL analytical queries (sales by region, year, top customers)
+- Automated audit logging with timestamps and data quality checks
+
+## Dataset
+Superstore Sales Dataset by Rohit Sahoo (Kaggle)
